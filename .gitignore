@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# NuGet
+*.nupkg
+packages/
+
+# Logs
+*.log
+*.tmp
