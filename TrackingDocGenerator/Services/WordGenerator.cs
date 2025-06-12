@@ -41,7 +41,7 @@ namespace TrackingDocGenerator.Services
                         var p = cell.Paragraphs[0];
                         p.Append(text)
                          .Font("Segoe UI")
-                         .FontSize(15);
+                         .FontSize(14);
                     }
                 }
 
